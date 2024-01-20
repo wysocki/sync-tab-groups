@@ -95,7 +95,8 @@ body {
 
 /*** Main End bar ***/
 .group-list {
-  height: 480px;
+  height: 800px;
+  /*changed from 480px by TRW*/
 }
 
 .addButton {
